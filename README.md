@@ -50,14 +50,6 @@ To view the carousel, open the `index.html` file in your web browser. You should
 - Click the "Previous" button to go to the previous slide.
 - Click the "Next" button to go to the next slide.
 
-### Automatic Navigation
-
-You can enable automatic navigation by modifying the JavaScript code. Set the `autoPlay` variable to `true` and adjust the `interval` variable to control the time between automatic slides.
-
-```javascript
-const autoPlay = true;
-const interval = 5000; // Adjust the interval in milliseconds (e.g., 5000 = 5 seconds)
-```
 
 ## Customization
 
@@ -65,12 +57,4 @@ Feel free to customize the carousel to suit your project's needs. You can modify
 
 ## Credits
 
-This project was created by [Your Name] and is open-source under the MIT License. Contributions are welcome!
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-```
-
-Replace `[Your Name]` with your actual name or username. This README provides an overview of your carousel project, instructions for getting started, usage information, customization details, credits, and licensing information. You can further enhance the README with additional details and documentation as needed.
+This project was created by Bibhanshu Baibhav and is open-source under the MIT License. Contributions are welcome!
